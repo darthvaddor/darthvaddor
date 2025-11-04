@@ -65,6 +65,6 @@ I once built an AI that closed all my browser tabs because it thought they were 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/darthvaddor/darthvaddor/output/snake.svg" alt="Snake animation" />
 
 ###

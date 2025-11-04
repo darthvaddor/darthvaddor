@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="180" src="https://i.pinimg.com/originals/5e/97/d9/5e97d99d4648b47bbd4887b1bc3a6fd3.gif" alt="Darth Vader GIF" />
+<img align="right" height="180" style="border-radius:12px;" src="https://darksiderconfessions.blog/wp-content/uploads/2019/07/vadercool.gif" alt="Darth Vader GIF" />
 
 ###
 
